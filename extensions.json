@@ -1,0 +1,82 @@
+[
+  {
+    "metadata": {
+      "id": "5a8b9107-e667-4ec8-a792-d066a93b9eff",
+      "publisherId": "ms-python.anaconda-extension-pack",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "anaconda-extension-pack",
+    "publisher": "ms-python",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "fd6862de-d2d9-4d13-9683-56f58b362a3a",
+      "publisherId": "DevonDCarew.bazel-code",
+      "publisherDisplayName": "DevonDCarew"
+    },
+    "name": "bazel-code",
+    "publisher": "DevonDCarew",
+    "version": "0.1.9"
+  },
+  {
+    "metadata": {
+      "id": "de611071-4d05-4903-821c-6878df63d4af",
+      "publisherId": "austin.code-gnu-global",
+      "publisherDisplayName": "austin"
+    },
+    "name": "code-gnu-global",
+    "publisher": "austin",
+    "version": "0.2.2"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.2.7"
+  },
+  {
+    "metadata": {
+      "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+      "publisherId": "ms-vscode.cpptools",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "cpptools",
+    "publisher": "ms-vscode",
+    "version": "0.22.1"
+  },
+  {
+    "metadata": {
+      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
+      "publisherId": "yzhang.markdown-all-in-one",
+      "publisherDisplayName": "yzhang"
+    },
+    "name": "markdown-all-in-one",
+    "publisher": "yzhang",
+    "version": "2.2.0"
+  },
+  {
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2019.3.6352"
+  },
+  {
+    "metadata": {
+      "id": "2061917f-f76a-458a-8da9-f162de22b97e",
+      "publisherId": "redhat.vscode-yaml",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "vscode-yaml",
+    "publisher": "redhat",
+    "version": "0.4.0"
+  }
+]

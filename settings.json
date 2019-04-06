@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/colin/anaconda2/bin/python",
+    "workbench.colorTheme": "Default Light+",
+    "editor.tabSize": 2,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "window.zoomLevel": 0,
+    "workbench.editor.enablePreview": false,
+    "sync.gist": "11ac9399309fc7dd1af55cf922f77204",
+    "[cpp]": {},
+    "C_Cpp.clang_format_style": "Google",
+    "editor.rulers": [80]
+}
