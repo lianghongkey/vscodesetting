@@ -8,5 +8,8 @@
     "sync.gist": "11ac9399309fc7dd1af55cf922f77204",
     "[cpp]": {},
     "C_Cpp.clang_format_style": "Google",
-    "editor.rulers": [80]
+    "editor.rulers": [
+        80
+    ],
+    "workbench.startupEditor": "newUntitledFile",
 }

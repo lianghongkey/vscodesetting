@@ -137,4 +137,12 @@
         "command": "workbench.action.search.toggleQueryDetails",
         "when": "searchViewletVisible"
     },
+    {
+        "key": "ctrl+,",
+        "command": "workbench.action.openSettings"
+    },
+    {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.openPreviousRecentlyUsedEditorInGroup"
+    }
 ]
