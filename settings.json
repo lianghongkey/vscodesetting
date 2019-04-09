@@ -5,11 +5,19 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "window.zoomLevel": 0,
     "workbench.editor.enablePreview": false,
-    "sync.gist": "11ac9399309fc7dd1af55cf922f77204",
     "[cpp]": {},
     "C_Cpp.clang_format_style": "Google",
     "editor.rulers": [
         80
     ],
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#fd5959",
+        "editor.selectionHighlightBackground": "#ff8787",
+        "editorOverviewRuler.findMatchForeground": "#0000ff",
+        "editorOverviewRuler.selectionHighlightForeground": "#fd5959",
+        "editorCursor.foreground": "#007523",
+        "editorBracketMatch.border": "#fffb00",
+        "editorBracketMatch.background": "#fffb00",
+    }
 }
