@@ -144,5 +144,9 @@
     {
         "key": "ctrl+shift+tab",
         "command": "workbench.action.openPreviousRecentlyUsedEditorInGroup"
-    }
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "workbench.action.reopenClosedEditor"
+    },
 ]
