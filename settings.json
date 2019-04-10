@@ -12,10 +12,10 @@
     ],
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorCustomizations": {
-        "editor.selectionBackground": "#fd5959",
-        "editor.selectionHighlightBackground": "#ff8787",
+        "editor.selectionBackground": "#ff9090",
+        "editor.selectionHighlightBackground": "#ffa8a8",
         "editorOverviewRuler.findMatchForeground": "#0000ff",
-        "editorOverviewRuler.selectionHighlightForeground": "#fd5959",
+        "editorOverviewRuler.selectionHighlightForeground": "#ff0000",
         "editorCursor.foreground": "#007523",
         "editorBracketMatch.border": "#fffb00",
         "editorBracketMatch.background": "#fffb00",
