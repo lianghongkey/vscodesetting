@@ -158,5 +158,9 @@
         "key": "ctrl+]",
         "command": "-editor.action.indentLines",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.openRecent"
     }
 ]
