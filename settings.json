@@ -19,5 +19,7 @@
         "editorCursor.foreground": "#007523",
         "editorBracketMatch.border": "#fffb00",
         "editorBracketMatch.background": "#fffb00",
-    }
+    },
+    "editor.fontSize": 15,
+    "editor.fontFamily": "SF Mono"
 }
