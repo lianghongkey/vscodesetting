@@ -21,5 +21,6 @@
         "editorBracketMatch.background": "#fffb00",
     },
     "editor.fontSize": 15,
-    "editor.fontFamily": "SF Mono"
+    "editor.fontFamily": "SF Mono",
+    "editor.fontWeight": "500"
 }
