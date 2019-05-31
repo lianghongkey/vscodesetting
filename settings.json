@@ -25,7 +25,7 @@
     "editor.fontWeight": "500",
     "editor.tokenColorCustomizations": {
         "comments":"#7c7c7c",
-        "keywords": "#708a00f7",
+        "keywords": "#9a00a8f7",
         "variables": "#FD971F",
         "strings": "#b8386dbd",
         "functions": "#0044d8",
