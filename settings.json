@@ -22,5 +22,13 @@
     },
     "editor.fontSize": 15,
     "editor.fontFamily": "SF Mono",
-    "editor.fontWeight": "500"
+    "editor.fontWeight": "500",
+    "editor.tokenColorCustomizations": {
+        "comments":"#7c7c7c",
+        "keywords": "#708a00f7",
+        "variables": "#FD971F",
+        "strings": "#b8386dbd",
+        "functions": "#0044d8",
+        "numbers": "#00b11d",
+    },
 }
