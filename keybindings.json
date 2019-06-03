@@ -173,4 +173,8 @@
         "command": "editor.unfoldAll",
         "when": "editorTextFocus"
     },
+    {
+        "key": "ctrl+oem_3",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
 ]
