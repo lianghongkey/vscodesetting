@@ -177,4 +177,16 @@
         "key": "ctrl+oem_3",
         "command": "workbench.action.terminal.toggleTerminal"
     },
+    {
+        "key": "ctrl+n",
+        "command": "workbench.action.terminal.findNextTerminalFocus",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+p",
+        "command": "workbench.action.terminal.findPreviousTerminalFocus",
+        "when": "terminalFocus"
+    },
+    
+    
 ]
