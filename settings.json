@@ -25,10 +25,10 @@
     "editor.fontWeight": "500",
     "editor.tokenColorCustomizations": {
         "comments":"#7c7c7c",
-        "keywords": "#a100a1",
-        "variables": "#a1a100",
-        "strings": "#00a1a1",
-        "functions": "#a10000",
-        "numbers": "#00a100",
+        "keywords": "#610091",
+        "variables": "#919100",
+        "strings": "#009191",
+        "functions": "#910000",
+        "numbers": "#009100",
     },
 }
