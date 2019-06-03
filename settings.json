@@ -31,4 +31,6 @@
         "functions": "#910000",
         "numbers": "#009100",
     },
+    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontFamily": "SF Mono",
 }
