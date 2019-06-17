@@ -22,7 +22,6 @@
         "terminal.background" : "#f8f8f8",
     },
     "editor.fontSize": 15,
-    "editor.fontFamily": "SF Mono",
     "editor.fontWeight": "500",
     "editor.tokenColorCustomizations": {
         "comments":"#7c7c7c",
@@ -33,5 +32,5 @@
         "numbers": "#009100",
     },
     "terminal.integrated.fontWeight": "500",
-    "terminal.integrated.fontFamily": "SF Mono",
+    "terminal.integrated.fontSize": 12,
 }
