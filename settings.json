@@ -21,7 +21,7 @@
         "editorBracketMatch.background": "#fffb00",
         "terminal.background" : "#f8f8f8",
     },
-    "editor.fontSize": 17,
+    "editor.fontSize": 14,
     "editor.fontWeight": "500",
     "editor.tokenColorCustomizations": {
         "comments":"#7c7c7c",
@@ -32,7 +32,6 @@
         "numbers": "#009100",
     },
     "terminal.integrated.fontWeight": "500",
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontSize": 10,
     "explorer.autoReveal": false,
-    "window.zoomLevel": -1,
 }
