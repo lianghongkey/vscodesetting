@@ -174,7 +174,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+oem_3",
+        "key": "ctrl+`",
         "command": "workbench.action.terminal.toggleTerminal"
     },
     {
@@ -187,6 +187,20 @@
         "command": "workbench.action.terminal.findPreviousTerminalFocus",
         "when": "terminalFocus"
     },
-    
-    
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.terminal.newInActiveWorkspace"
+    },
+    {
+        "key": "ctrl+shift+w",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+shift+]",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "ctrl+shift+[",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
 ]
