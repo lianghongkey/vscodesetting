@@ -18,16 +18,6 @@
         "command": "workbench.action.showAllSymbols"
     },
     {
-        "key": "ctrl+]",
-        "command": "editor.unfold",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+[",
-        "command": "editor.fold",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "ctrl+w",
         "command": "workbench.action.closeWindow",
         "when": "!editorIsOpen && !multipleEditorGroups"
@@ -150,26 +140,16 @@
         "command": "workbench.action.zoomOut"
     },
     {
-        "key": "ctrl+[",
-        "command": "-editor.action.outdentLines",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+]",
-        "command": "-editor.action.indentLines",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
         "key": "ctrl+r",
         "command": "workbench.action.openRecent"
     },
-        {
-        "key": "ctrl+shift+[",
+    {
+        "key": "ctrl+[",
         "command": "editor.foldAll",
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+]",
+        "key": "ctrl+]",
         "command": "editor.unfoldAll",
         "when": "editorTextFocus"
     },
