@@ -188,7 +188,7 @@
         "command": "search.action.clearSearchResults"
     },
     {
-        "key": "ctrl+p",
+        "key": "ctrl+shift+n",
         "command": "editor.action.previousMatchFindAction",
         "when": "editorFocus"
     },
