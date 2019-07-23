@@ -154,7 +154,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+`",
+        "key": "ctrl+shift+c",
         "command": "workbench.action.terminal.toggleTerminal"
     },
     {
