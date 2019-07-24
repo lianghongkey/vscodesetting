@@ -150,7 +150,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+t",
+        "key": "ctrl+shift+c",
         "command": "workbench.action.terminal.toggleTerminal"
     },
     {
@@ -187,5 +187,9 @@
         "key": "ctrl+shift+n",
         "command": "editor.action.previousMatchFindAction",
         "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.showAllSymbols"
     },
 ]
