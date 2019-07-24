@@ -14,10 +14,6 @@
         "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
     },
     {
-        "key": "ctrl+t",
-        "command": "workbench.action.showAllSymbols"
-    },
-    {
         "key": "ctrl+w",
         "command": "workbench.action.closeWindow",
         "when": "!editorIsOpen && !multipleEditorGroups"
@@ -154,7 +150,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+c",
+        "key": "ctrl+t",
         "command": "workbench.action.terminal.toggleTerminal"
     },
     {
