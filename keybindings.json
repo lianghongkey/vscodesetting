@@ -150,7 +150,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+d",
+        "key": "ctrl+e",
         "command": "workbench.action.terminal.toggleTerminal"
     },
     {
@@ -231,5 +231,15 @@
     {
         "key": "ctrl+0",
         "command": "workbench.action.lastEditorInGroup"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.debug.start",
+        "when": "!inDebugMode"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "workbench.action.debug.stop",
+        "when": "inDebugMode"
     },
 ]
