@@ -242,4 +242,9 @@
         "command": "workbench.action.debug.stop",
         "when": "inDebugMode"
     },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.debug.continue",
+        "when": "inDebugMode"
+    },
 ]
