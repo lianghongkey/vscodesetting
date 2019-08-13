@@ -244,8 +244,8 @@
         "when": "inDebugMode"
     },
     {
-        "key": "ctrl+n",
-        "command": "extension.node-debug.startWithStopOnEntry",
-        "when": "!inDebugMode && debugConfigurationType == 'node'"
+        "key": "ctrl+shift+q",
+        "command": "workbench.action.debug.restart",
+        "when": "inDebugMode"
     },
 ]
