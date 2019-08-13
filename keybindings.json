@@ -239,9 +239,4 @@
         "command": "workbench.action.debug.continue",
         "when": "inDebugMode"
     },
-    {
-        "key": "cmd+shift+q",
-        "command": "workbench.action.debug.restart",
-        "when": "inDebugMode"
-    },
 ]
