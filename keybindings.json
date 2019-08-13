@@ -189,10 +189,6 @@
         "when": "editorFocus"
     },
     {
-        "key": "ctrl+t",
-        "command": "workbench.action.showAllSymbols"
-    },
-    {
         "key": "ctrl+1",
         "command": "workbench.action.openEditorAtIndex1"
     },
@@ -233,7 +229,7 @@
         "command": "workbench.action.lastEditorInGroup"
     },
     {
-        "key": "ctrl+r",
+        "key": "ctrl+t",
         "command": "workbench.action.debug.start",
         "when": "!inDebugMode"
     },
@@ -243,8 +239,13 @@
         "when": "inDebugMode"
     },
     {
-        "key": "ctrl+r",
+        "key": "ctrl+t",
         "command": "workbench.action.debug.continue",
         "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "extension.node-debug.startWithStopOnEntry",
+        "when": "!inDebugMode && debugConfigurationType == 'node'"
     },
 ]
