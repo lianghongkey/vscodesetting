@@ -155,7 +155,7 @@
         "when": "terminalFocus"
     },
     {
-        "key": "ctrl+p",
+        "key": "ctrl+shift+n",
         "command": "workbench.action.terminal.findPreviousTerminalFocus",
         "when": "terminalFocus"
     },
@@ -290,5 +290,25 @@
         "key": "ctrl+shift+w",
         "command": "toggleSearchWholeWord",
         "when": "searchViewletFocus && searchViewletVisible"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "workbench.action.terminal.focusFindWidget",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "workbench.action.terminal.focusFindWidget",
+        "when": "terminalFindWidgetFocused"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "workbench.action.terminal.findNextTerminalFocus",
+        "when": "terminalFindWidgetFocused"
+    },
+    {
+        "key": "ctrl+shift+n",
+        "command": "workbench.action.terminal.findPreviousTerminalFocus",
+        "when": "terminalFindWidgetFocused"
     },
 ]
