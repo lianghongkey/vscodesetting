@@ -48,6 +48,8 @@
     "gitlens.mode.statusBar.enabled": false,
     "gitlens.statusBar.enabled": false,
     "gitlens.hovers.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
     "python.linting.mypyEnabled": true,
     "python.linting.pylintEnabled": false,
     "python.jediEnabled": false,
