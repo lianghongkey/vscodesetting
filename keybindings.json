@@ -68,10 +68,6 @@
         "command": "workbench.action.toggleSidebarVisibility"
     },
     {
-        "key": "ctrl+shift+r",
-        "command": "workbench.action.reopenClosedEditor"
-    },
-    {
         "key": "ctrl+p",
         "command": "workbench.action.quickOpen"
     },
@@ -170,12 +166,14 @@
         "when": "terminalFocus"
     },
     {
-        "key": "ctrl+shift+]",
-        "command": "workbench.action.terminal.focusNext"
+        "key": "ctrl+]",
+        "command": "workbench.action.terminal.focusNext",
+        "when": "terminalFocus"
     },
     {
-        "key": "ctrl+shift+[",
-        "command": "workbench.action.terminal.focusPrevious"
+        "key": "ctrl+[",
+        "command": "workbench.action.terminal.focusPrevious",
+        "when": "terminalFocus"
     },
     {
         "key": "shift+escape",
