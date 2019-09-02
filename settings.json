@@ -51,5 +51,4 @@
     "gitlens.codeLens.authors.enabled": false,
     "gitlens.codeLens.recentChange.enabled": false,
     "python.linting.pylintEnabled": false,
-    "workbench.panel.defaultLocation": "right",
 }
