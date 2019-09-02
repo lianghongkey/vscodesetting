@@ -145,14 +145,13 @@
     },
     {
         "key": "ctrl+e",
-        "command": "workbench.action.terminal.toggleTerminal",
-        "when": "terminalFocus"
-
+        "command": "workbench.action.togglePanel",
+        "when": "activePanel"
     },
     {
         "key": "ctrl+e",
         "command": "workbench.action.toggleMaximizedPanel",
-        "when": "!terminalFocus || editorTextFocus"
+        "when": "!activePanel"
     },
     {
         "key": "ctrl+n",
@@ -327,9 +326,5 @@
         "key": "ctrl+shift+[",
         "command": "workbench.action.previousEditor",
         "when": "editorFocus"
-    },
-    {
-        "key": "ctrl+shift+f9",
-        "command": "workbench.action.toggleMaximizedPanel"
     }
 ]
