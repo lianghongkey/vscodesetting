@@ -327,4 +327,8 @@
         "command": "workbench.action.previousEditor",
         "when": "editorFocus"
     }
+    {
+        "key": "ctrl+shift+w",
+        "command": "-workbench.action.closeWindow"
+    }
 ]
