@@ -80,5 +80,4 @@
     "gitlens.blame.heatmap.enabled": false,
     "gitlens.blame.avatars": false,
     "gitlens.blame.compact": false,
-    "git.enabled": false,
 }
