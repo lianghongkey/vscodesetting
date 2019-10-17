@@ -240,12 +240,12 @@
     {
         "key": "ctrl+t",
         "command": "workbench.action.debug.stop",
-        "when": "inDebugMode && !terminalFocus"
+        "when": "inDebugMode && !terminalFocus && editorFocus"
     },
     {
         "key": "ctrl+r",
         "command": "workbench.action.debug.start",
-        "when": "!inDebugMode && !terminalFocus"
+        "when": "!inDebugMode && !terminalFocus && editorFocus"
     },
     {
         "key": "ctrl+shift+s",
