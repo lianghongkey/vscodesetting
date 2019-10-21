@@ -80,5 +80,11 @@
     "gitlens.blame.heatmap.enabled": false,
     "gitlens.blame.avatars": false,
     "gitlens.blame.compact": false,
-    "terminal.integrated.cwd": "${workspaceFolder}",
+    "editor.largeFileOptimizations": false,
+    "C_Cpp.default.intelliSenseMode": "clang-x64",
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "terminal.integrated.inheritEnv": false,
+    "python.terminal.activateEnvironment": false,
 }
