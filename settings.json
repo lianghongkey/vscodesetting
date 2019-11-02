@@ -88,4 +88,5 @@
     "explorer.openEditors.visible": 20,
     "workbench.editor.showTabs": false,
     "breadcrumbs.enabled": false,
+    "terminal.integrated.rendererType": "dom",
 }
