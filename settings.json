@@ -32,7 +32,7 @@
         "functions": "#910000",
         "numbers": "#009100",
     },
-    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontWeight": "600",
     "terminal.integrated.fontFamily": "SF Mono",
     "terminal.integrated.scrollback": 10000,
     "explorer.autoReveal": false,
