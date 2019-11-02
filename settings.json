@@ -66,7 +66,6 @@
             "stash": true
         }
     },
-    "hexdump.btnEnabled": false,
     "gitlens.blame.highlight.locations": [
         "gutter",
         "line",
@@ -88,5 +87,5 @@
     "explorer.openEditors.visible": 20,
     "workbench.editor.showTabs": false,
     "breadcrumbs.enabled": false,
-    "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.fontSize": 16,
 }
