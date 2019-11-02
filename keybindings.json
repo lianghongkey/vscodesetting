@@ -330,12 +330,12 @@
     {
         "key": "ctrl+shift+]",
         "command": "workbench.action.nextEditor",
-        "when": "editorTextFocus || editorFocus"
+        "when": "!terminalFocus"
     },
     {
         "key": "ctrl+shift+[",
         "command": "workbench.action.previousEditor",
-        "when": "editorTextFocus || editorFocus"
+        "when": "!terminalFocus"
     },
     {
         "key": "ctrl+shift+w",
