@@ -371,4 +371,9 @@
         "command": "workbench.action.terminal.focusAtIndex6",
         "when": "terminalFocus"
     },
+    {
+        "key": "ctrl+shift+e",
+        "command": "workbench.files.action.focusOpenEditorsView",
+        "when": "workbench.explorer.openEditorsView.active"
+    },
 ]
