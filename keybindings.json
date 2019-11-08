@@ -377,11 +377,23 @@
         "when": "workbench.explorer.openEditorsView.active"
     },
     {
-        "key": "ctrl+shift+g",
-        "command": "scm.mainPanel.focus"
-    },
-    {
         "key": "ctrl+shift+o",
         "command": "sshHosts.focus"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "-workbench.view.scm"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "workbench.debug.action.focusVariablesView"
+    },
+    {
+        "key": "ctrl+shift+y",
+        "command": "gitlens.views.repositories:gitlens.focus"
+    },
+    {
+        "key": "ctrl+shift+u",
+        "command": "scm.mainPanel.focus"
     }
 ]
