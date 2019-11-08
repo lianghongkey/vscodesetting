@@ -376,4 +376,12 @@
         "command": "workbench.files.action.focusOpenEditorsView",
         "when": "workbench.explorer.openEditorsView.active"
     },
+    {
+        "key": "ctrl+shift+g",
+        "command": "scm.mainPanel.focus"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "sshHosts.focus"
+    }
 ]
