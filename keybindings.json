@@ -385,15 +385,15 @@
         "command": "gitlens.views.repositories:gitlens.focus"
     },
     {
-        "key": "ctrl+shift+u",
-        "command": "scm.mainPanel.focus"
-    },
-    {
         "key": "ctrl+shift+d",
         "command": "-workbench.view.debug"
     },
     {
         "key": "ctrl+shift+g",
         "command": "workbench.view.debug"
-    }
+    },
+    {
+        "key": "ctrl+shift+u",
+        "command": "workbench.view.scm"
+    },
 ]
