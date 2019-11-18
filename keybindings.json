@@ -151,13 +151,13 @@
     },
     {
         "key": "ctrl+n",
-        "command": "workbench.action.terminal.findNextTerminalFocus",
-        "when": "terminalFocus"
+        "command": "workbench.action.terminal.findNext",
+        "when": "terminalFocus || terminalFindWidgetFocused"
     },
     {
         "key": "ctrl+shift+n",
-        "command": "workbench.action.terminal.findPreviousTerminalFocus",
-        "when": "terminalFocus"
+        "command": "workbench.action.terminal.findPrevious",
+        "when": "terminalFocus || terminalFindWidgetFocused"
     },
     {
         "key": "ctrl+t",
@@ -269,13 +269,8 @@
     },
     {
         "key": "ctrl+shift+c",
-        "command": "workbench.action.terminal.toggleFindCaseSensitiveTerminalFocus",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+shift+c",
         "command": "workbench.action.terminal.toggleFindCaseSensitive",
-        "when": "terminalFindWidgetFocused"
+        "when": "terminalFocus || terminalFindWidgetFocused"
     },
     {
         "key": "ctrl+shift+c",
@@ -289,13 +284,8 @@
     },
     {
         "key": "ctrl+shift+d",
-        "command": "workbench.action.terminal.toggleFindWholeWordTerminalFocus",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+shift+d",
         "command": "workbench.action.terminal.toggleFindWholeWord",
-        "when": "terminalFindWidgetFocused"
+        "when": "terminalFocus || terminalFindWidgetFocused"
     },
     {
         "key": "ctrl+shift+d",
@@ -315,16 +305,6 @@
     {
         "key": "ctrl+f",
         "command": "workbench.action.terminal.focusFindWidget",
-        "when": "terminalFindWidgetFocused"
-    },
-    {
-        "key": "ctrl+n",
-        "command": "workbench.action.terminal.findNextTerminalFocus",
-        "when": "terminalFindWidgetFocused"
-    },
-    {
-        "key": "ctrl+shift+n",
-        "command": "workbench.action.terminal.findPreviousTerminalFocus",
         "when": "terminalFindWidgetFocused"
     },
     {
