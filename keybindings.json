@@ -376,4 +376,12 @@
         "key": "ctrl+shift+u",
         "command": "workbench.view.scm"
     },
+    {
+        "key": "ctrl+.",
+        "command": "workbench.action.toggleStatusbarVisibility"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
 ]
