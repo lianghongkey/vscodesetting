@@ -88,4 +88,7 @@
     "workbench.editor.showTabs": true,
     "breadcrumbs.enabled": false,
     "terminal.integrated.fontSize": 16,
+    "window.menuBarVisibility": "compact",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.maxMemoryForLargeFilesMB": 8192,
 }
