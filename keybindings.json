@@ -384,4 +384,8 @@
         "key": "ctrl+m",
         "command": "workbench.action.toggleActivityBarVisibility"
     },
+    {
+        "key": "shift+cmd+w",
+        "command": "workbench.action.quickSwitchWindow"
+    }
 ]
