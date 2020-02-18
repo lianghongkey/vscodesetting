@@ -6,7 +6,7 @@
     },
     {
         "key": "ctrl+=",
-        "command": "editor.unfold",
+        "command": "editor.unfoldRecursively",
     },
     {
         "key": "ctrl+shift+-",
