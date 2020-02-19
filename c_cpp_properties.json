@@ -1,27 +1,20 @@
 {
     "env": {
-        "myDefaultIncludePath": ["${workspaceFolder}", "${workspaceFolder}/include"]
-      },
+        "myDefaultIncludePath": [
+            "${workspaceFolder}",
+            "${workspaceFolder}/include"
+        ]
+    },
     "configurations": [
         {
             "name": "Linux",
             "intelliSenseMode": "clang-x64",
             "includePath": [
-                "${myDefaultIncludePath}",
-                "${workspaceFolder}/include/**",
-                "${workspaceFolder}/lib/**",
-                "${workspaceFolder}/tests/**",
-                "${workspaceFolder}/third_party/**",
-                "${workspaceFolder}/tools/**"
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang-3.9",
-            "compileCommands": "${workspaceFolder}/compile_commands.json",
-            "browse": {
-                "path": ["${workspaceFolder}"],
-                "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": ""
-              }
+            "compileCommands": "${workspaceFolder}/compile_commands.json"
         }
     ],
     "version": 4
