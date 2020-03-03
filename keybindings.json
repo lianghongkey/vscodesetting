@@ -146,7 +146,7 @@
     },
     {
         "key": "ctrl+e",
-        "command": "workbench.action.toggleMaximizedPanel",
+        "command": "macros.terminal",
         "when": "!activePanel"
     },
     {
