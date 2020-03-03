@@ -318,10 +318,6 @@
         "when": "!terminalFocus"
     },
     {
-        "key": "ctrl+shift+w",
-        "command": "-workbench.action.closeWindow"
-    },
-    {
         "key": "ctrl+1",
         "command": "workbench.action.terminal.focusAtIndex1",
         "when": "terminalFocus"
@@ -385,7 +381,7 @@
         "command": "workbench.action.toggleActivityBarVisibility"
     },
     {
-        "key": "shift+cmd+w",
+        "key": "ctrl+shift+w",
         "command": "workbench.action.quickSwitchWindow"
     }
 ]
